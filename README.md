@@ -1,0 +1,3 @@
+# SoftwareComponent
+
+這是一個用於儲存元件軟體課程內容的Repo
