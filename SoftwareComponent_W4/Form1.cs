@@ -48,7 +48,7 @@ namespace SoftwareComponent_W4
             int year = int.Parse(textBox7.Text);
             double month = year * 12;
 
-            value = (Math.Pow((1 + mrate), month) * mrate) / (Math.Pow((1 + mrate), month) - 1);
+            value = money * (Math.Pow((1 + mrate), month) * mrate) / (Math.Pow((1 + mrate), month) - 1);
             label10.Text = value.ToString();
         }
     }
