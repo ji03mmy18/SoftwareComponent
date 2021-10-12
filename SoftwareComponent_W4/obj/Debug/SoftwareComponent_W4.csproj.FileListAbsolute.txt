@@ -1,0 +1,10 @@
+C:\Users\YuntechIM\source\repos\SoftwareComponent\SoftwareComponent_W4\bin\Debug\SoftwareComponent_W4.exe.config
+C:\Users\YuntechIM\source\repos\SoftwareComponent\SoftwareComponent_W4\bin\Debug\SoftwareComponent_W4.exe
+C:\Users\YuntechIM\source\repos\SoftwareComponent\SoftwareComponent_W4\bin\Debug\SoftwareComponent_W4.pdb
+C:\Users\YuntechIM\source\repos\SoftwareComponent\SoftwareComponent_W4\obj\Debug\SoftwareComponent_W4.csproj.AssemblyReference.cache
+C:\Users\YuntechIM\source\repos\SoftwareComponent\SoftwareComponent_W4\obj\Debug\SoftwareComponent_W4.Form1.resources
+C:\Users\YuntechIM\source\repos\SoftwareComponent\SoftwareComponent_W4\obj\Debug\SoftwareComponent_W4.Properties.Resources.resources
+C:\Users\YuntechIM\source\repos\SoftwareComponent\SoftwareComponent_W4\obj\Debug\SoftwareComponent_W4.csproj.GenerateResource.cache
+C:\Users\YuntechIM\source\repos\SoftwareComponent\SoftwareComponent_W4\obj\Debug\SoftwareComponent_W4.csproj.CoreCompileInputs.cache
+C:\Users\YuntechIM\source\repos\SoftwareComponent\SoftwareComponent_W4\obj\Debug\SoftwareComponent_W4.exe
+C:\Users\YuntechIM\source\repos\SoftwareComponent\SoftwareComponent_W4\obj\Debug\SoftwareComponent_W4.pdb
